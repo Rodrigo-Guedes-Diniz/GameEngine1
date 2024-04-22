@@ -7,6 +7,7 @@
     <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/background.png</File>
     <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/boladefogo.png</File>
     <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/caveira.png</File>
+    <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/galleryFont.spritefont</File>
     <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/player/mago.png</File>
     <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/player/magoDown.png</File>
     <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/player/magoLeft.png</File>
@@ -14,6 +15,7 @@
     <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/player/magoUp.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

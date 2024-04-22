@@ -4,16 +4,18 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/background.png</File>
-    <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/boladefogo.png</File>
-    <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/caveira.png</File>
-    <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/player/mago.png</File>
-    <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/player/magoDown.png</File>
-    <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/player/magoLeft.png</File>
-    <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/player/magoRight.png</File>
-    <File>C:/Windows/Temp/ws-vs2022/rpgtowerdefense/rpgtowerdefense/Content/assets/player/magoUp.png</File>
+    <File>C:/Users/rodri/Downloads/rpgtowerdefense/rpgtowerdefense/Content/assets/background.png</File>
+    <File>C:/Users/rodri/Downloads/rpgtowerdefense/rpgtowerdefense/Content/assets/boladefogo.png</File>
+    <File>C:/Users/rodri/Downloads/rpgtowerdefense/rpgtowerdefense/Content/assets/caveira.png</File>
+    <File>C:/Users/rodri/Downloads/rpgtowerdefense/rpgtowerdefense/Content/assets/galleryFont.spritefont</File>
+    <File>C:/Users/rodri/Downloads/rpgtowerdefense/rpgtowerdefense/Content/assets/player/mago.png</File>
+    <File>C:/Users/rodri/Downloads/rpgtowerdefense/rpgtowerdefense/Content/assets/player/magoDown.png</File>
+    <File>C:/Users/rodri/Downloads/rpgtowerdefense/rpgtowerdefense/Content/assets/player/magoLeft.png</File>
+    <File>C:/Users/rodri/Downloads/rpgtowerdefense/rpgtowerdefense/Content/assets/player/magoRight.png</File>
+    <File>C:/Users/rodri/Downloads/rpgtowerdefense/rpgtowerdefense/Content/assets/player/magoUp.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

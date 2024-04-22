@@ -3,7 +3,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 
 using Comora;
-using rpgtowerdefense.States;
+using static System.Formats.Asn1.AsnWriter;
 
 namespace rpgtowerdefense {
 
@@ -17,9 +17,6 @@ namespace rpgtowerdefense {
     public class Game1 : Game {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
-
-        private State _currentState;
-        private State _nextState;
 
         Texture2D playerSprite;
         Texture2D magoDown;
@@ -35,6 +32,10 @@ namespace rpgtowerdefense {
 
         Camera camera;
 
+        SpriteFont gameFont;
+
+        int score = 0;
+
 
         public Game1() {
             _graphics = new GraphicsDeviceManager(this);
@@ -44,23 +45,17 @@ namespace rpgtowerdefense {
 
         protected override void Initialize() {
 
-            _graphics.PreferredBackBufferWidth = 1600;
-            _graphics.PreferredBackBufferHeight = 900;
+            _graphics.PreferredBackBufferWidth = 1280;
+            _graphics.PreferredBackBufferHeight = 720;
             _graphics.ApplyChanges();
 
             this.camera = new Camera(_graphics.GraphicsDevice);
 
             base.Initialize();
-
-
         }
 
         protected override void LoadContent() {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
-
-            _currentState = new SpriteBatch(GraphicsDevice);
-            _currentState.LoadContent();
-            _nextState = null;
 
             playerSprite = Content.Load<Texture2D>("assets/player/mago");
             magoDown = Content.Load<Texture2D>("assets/player/magoDown");
@@ -71,6 +66,8 @@ namespace rpgtowerdefense {
             background = Content.Load<Texture2D>("assets/background");
             fireBall = Content.Load<Texture2D>("assets/boladefogo");
             skull = Content.Load<Texture2D>("assets/caveira");
+
+            gameFont = Content.Load<SpriteFont>("assets/galleryFont");
 
             player.animations[0] = new SpriteAnimation(magoDown, 4, 8);
             player.animations[1] = new SpriteAnimation(magoUp, 4, 8);
@@ -84,23 +81,6 @@ namespace rpgtowerdefense {
         }
 
         protected override void Update(GameTime gameTime) {
-
-            {
-                if (_nextState != null)
-                {
-                    _currentState = _nextState;
-                    _currentState.LoadContent();
-
-                    _nextState = null;
-                }
-
-                _currentState.Update(gameTime);
-
-                _currentState.PostUpdate(gameTime);
-            }
-            base.Update(gameTime);
-
-
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
 
@@ -129,39 +109,39 @@ namespace rpgtowerdefense {
                     if (Vector2.Distance(proj.Position, enemy.Position) < sum) { 
                         proj.Collided = true;
                         enemy.Dead = true;
+                        if (!player.dead)
+                        {
+                            score++;
+                        }
+                       
                     }
                 }
             }
-
-            Projectile.projectiles.RemoveAll(p => p.Collided);
-            Enemy.enemies.RemoveAll(e => e.Dead);
+            if (!player.dead) { 
+                Projectile.projectiles.RemoveAll(p => p.Collided);
+                Enemy.enemies.RemoveAll(e => e.Dead);
+            }
 
             base.Update(gameTime);
         }
 
-        public void ChangeState(States state)
-        {
-            _nextState = state;
-        }
-
-
         protected override void Draw(GameTime gameTime) {
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
-
-            _currentState.Draw(gameTime, spriteBatch);
-
-
+            Vector2 textPosition = player.Position + new Vector2(-600, -300);
 
             _spriteBatch.Begin(this.camera);
 
             _spriteBatch.Draw(background, new Vector2(-500, -500), Color.White);
+            _spriteBatch.DrawString(gameFont, "Pontos = " + score, textPosition, Color.Yellow);
             foreach (Enemy e in Enemy.enemies) {
                 e.anim.Draw(_spriteBatch);
             }
-            foreach (Projectile proj in Projectile.projectiles) {
+            if (!player.dead) { 
+                foreach (Projectile proj in Projectile.projectiles) {
                 _spriteBatch.Draw(fireBall, new Vector2(proj.Position.X - 48, proj.Position.Y - 48), Color.White);
             }
+        }
 
             if(!player.dead)
                 player.anim.Draw(_spriteBatch);

@@ -1,46 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\",
+  "WorkspaceRootPath": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\work\\projects\\c#\\rpgtowerdefense\\rpgtowerdefense\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\users\\rodri\\downloads\\rpgtowerdefense\\rpgtowerdefense\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\work\\projects\\c#\\rpgtowerdefense\\rpgtowerdefense\\states\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\states\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\work\\projects\\c#\\rpgtowerdefense\\rpgtowerdefense\\states\\highscorestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\states\\highscorestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\work\\projects\\c#\\rpgtowerdefense\\rpgtowerdefense\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\states\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\work\\projects\\c#\\rpgtowerdefense\\rpgtowerdefense\\states\\menustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\states\\menustate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\work\\projects\\c#\\rpgtowerdefense\\rpgtowerdefense\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\work\\projects\\c#\\rpgtowerdefense\\rpgtowerdefense\\spriteanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\users\\rodri\\downloads\\rpgtowerdefense\\rpgtowerdefense\\spriteanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\spriteanimation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\work\\projects\\c#\\rpgtowerdefense\\rpgtowerdefense\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\users\\rodri\\downloads\\rpgtowerdefense\\rpgtowerdefense\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\work\\projects\\c#\\rpgtowerdefense\\rpgtowerdefense\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\users\\rodri\\downloads\\rpgtowerdefense\\rpgtowerdefense\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\users\\rodri\\downloads\\rpgtowerdefense\\rpgtowerdefense\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\work\\projects\\c#\\rpgtowerdefense\\rpgtowerdefense\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|c:\\users\\rodri\\downloads\\rpgtowerdefense\\rpgtowerdefense\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E66A31-7A0C-49DE-83CF-C4B264DC40E2}|rpgtowerdefense\\rpgtowerdefense.csproj|solutionrelative:rpgtowerdefense\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,67 +34,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "HighscoreState.cs",
-              "DocumentMoniker": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\States\\HighscoreState.cs",
-              "RelativeDocumentMoniker": "rpgtowerdefense\\States\\HighscoreState.cs",
-              "ToolTip": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\States\\HighscoreState.cs",
-              "RelativeToolTip": "rpgtowerdefense\\States\\HighscoreState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T01:48:39.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "MenuState.cs",
-              "DocumentMoniker": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\States\\MenuState.cs",
-              "RelativeDocumentMoniker": "rpgtowerdefense\\States\\MenuState.cs",
-              "ToolTip": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\States\\MenuState.cs",
-              "RelativeToolTip": "rpgtowerdefense\\States\\MenuState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\Controller.cs",
+              "RelativeDocumentMoniker": "rpgtowerdefense\\Controller.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\Controller.cs",
+              "RelativeToolTip": "rpgtowerdefense\\Controller.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAvwA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T01:48:22.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameState.cs",
-              "DocumentMoniker": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\States\\GameState.cs",
-              "RelativeDocumentMoniker": "rpgtowerdefense\\States\\GameState.cs",
-              "ToolTip": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\States\\GameState.cs",
-              "RelativeToolTip": "rpgtowerdefense\\States\\GameState.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T01:48:16.748Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T21:53:29.441Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "State.cs",
-              "DocumentMoniker": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\States\\State.cs",
-              "RelativeDocumentMoniker": "rpgtowerdefense\\States\\State.cs",
-              "ToolTip": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\States\\State.cs",
-              "RelativeToolTip": "rpgtowerdefense\\States\\State.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T01:48:07.043Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Enemy.cs",
-              "DocumentMoniker": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\Enemy.cs",
               "RelativeDocumentMoniker": "rpgtowerdefense\\Enemy.cs",
-              "ToolTip": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\Enemy.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\Enemy.cs",
               "RelativeToolTip": "rpgtowerdefense\\Enemy.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,11 +62,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Projectile.cs",
-              "DocumentMoniker": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\Projectile.cs",
               "RelativeDocumentMoniker": "rpgtowerdefense\\Projectile.cs",
-              "ToolTip": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\Projectile.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\Projectile.cs",
               "RelativeToolTip": "rpgtowerdefense\\Projectile.cs",
               "ViewState": "AQIAAAsAAAAAAAAAAAAxwCMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,11 +74,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "SpriteAnimation.cs",
-              "DocumentMoniker": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\SpriteAnimation.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\SpriteAnimation.cs",
               "RelativeDocumentMoniker": "rpgtowerdefense\\SpriteAnimation.cs",
-              "ToolTip": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\SpriteAnimation.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\SpriteAnimation.cs",
               "RelativeToolTip": "rpgtowerdefense\\SpriteAnimation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -144,39 +88,26 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\Player.cs",
               "RelativeDocumentMoniker": "rpgtowerdefense\\Player.cs",
-              "ToolTip": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\Player.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\Player.cs",
               "RelativeToolTip": "rpgtowerdefense\\Player.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAkwBQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T16:24:35.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T16:24:35.999Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game1.cs",
-              "DocumentMoniker": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\Game1.cs",
+              "DocumentMoniker": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\Game1.cs",
               "RelativeDocumentMoniker": "rpgtowerdefense\\Game1.cs",
-              "ToolTip": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\Game1.cs",
+              "ToolTip": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\Game1.cs",
               "RelativeToolTip": "rpgtowerdefense\\Game1.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAUwDkAAAAvAAAA",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T16:12:35.656Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Controller.cs",
-              "DocumentMoniker": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\Controller.cs",
-              "RelativeDocumentMoniker": "rpgtowerdefense\\Controller.cs",
-              "ToolTip": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\Controller.cs",
-              "RelativeToolTip": "rpgtowerdefense\\Controller.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAvwA4AAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T21:53:29.441Z"
             }
           ]
         }

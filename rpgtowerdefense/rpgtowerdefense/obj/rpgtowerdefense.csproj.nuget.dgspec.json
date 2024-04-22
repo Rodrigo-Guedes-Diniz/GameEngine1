@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\rpgtowerdefense.csproj": {}
+    "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\rpgtowerdefense.csproj": {}
   },
   "projects": {
-    "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\rpgtowerdefense.csproj": {
+    "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\rpgtowerdefense.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\rpgtowerdefense.csproj",
+        "projectUniqueName": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\rpgtowerdefense.csproj",
         "projectName": "rpgtowerdefense",
-        "projectPath": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\rpgtowerdefense.csproj",
+        "projectPath": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\rpgtowerdefense.csproj",
         "packagesPath": "C:\\Users\\rodri\\.nuget\\packages\\",
-        "outputPath": "C:\\Work\\Projects\\C#\\rpgtowerdefense\\rpgtowerdefense\\obj\\",
+        "outputPath": "C:\\Users\\rodri\\Downloads\\rpgtowerdefense\\rpgtowerdefense\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
